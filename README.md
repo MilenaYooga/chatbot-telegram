@@ -134,6 +134,9 @@ Observação: a OpenWeather recomenda chamadas por coordenadas e mantém a chama
 - Teste realizado com pelo menos 3 cidades válidas.
 - Teste realizado com 1 cidade inexistente.
 - Nenhum token real salvo no JSON, README ou arquivos versionados.
+  
+- Working!
+<img width="394" height="226" alt="image" src="https://github.com/user-attachments/assets/aab32fb9-d590-48c9-a010-229380ecfcd5" />
 
 ## Problemas comuns
 
